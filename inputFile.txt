@@ -1,0 +1,5 @@
+#[ begin end if 1 2 3 4#
+ =  <  > == != : :=  +  -  *  /   ^  . (  ) , { } ; [ ] || && 
+# begin end do while whole label return input output program warp if then pick declare assign func#
+#hello world#
+Hello
